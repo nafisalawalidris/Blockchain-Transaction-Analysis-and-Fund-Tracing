@@ -1,0 +1,20 @@
+# Environment files
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment directories
+venv/
+crypto_analysis-env/
+
+# Logs
+*.log
+
+# Ignore compiled files
+*.pyc
+
+# OS-specific files
+.DS_Store
+Thumbs.db
