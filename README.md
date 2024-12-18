@@ -2,6 +2,8 @@
 
 This project focuses on analysing blockchain transactions and tracing fund movements across different addresses. By utilising the Tronscan APIs, it retrieves detailed transaction information, verifies recipient addresses and checks the accuracy of received amounts after accounting for transaction fees. Furthermore, the project maps the flow of funds, starting from a specified withdrawal address, by identifying both outgoing and incoming transactions. This comprehensive analysis assists in investigating discrepancies or delays, particularly for transactions involving TRON. By flagging suspicious transactions and ensuring the integrity of blockchain data, this project contributes to a better understanding of cryptocurrency transactions and aids in identifying potential issues such as fraud or unauthorised activity.
 
+## If you find this project useful, please consider giving it a star ⭐ on GitHub. Contributions are also welcome!
+
 ---
 
 ## **Problem Statement**
